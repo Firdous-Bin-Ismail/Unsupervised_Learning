@@ -1,5 +1,7 @@
 # Unsupervised_Learning
 
+(Used make_blobs dataset from sklearn.datasets)
+
 1. Implemented K-Means clustering for grouping data.
 
 2. Compared results with DBSCAN to highlight differences in cluster formation.
